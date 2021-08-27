@@ -1,0 +1,9 @@
+D:\valera\ZTU\2_sem\database\payers\payers\bin\Release\payers.exe.config
+D:\valera\ZTU\2_sem\database\payers\payers\bin\Release\payers.exe
+D:\valera\ZTU\2_sem\database\payers\payers\bin\Release\payers.pdb
+D:\valera\ZTU\2_sem\database\payers\payers\obj\Release\payers.Form1.resources
+D:\valera\ZTU\2_sem\database\payers\payers\obj\Release\payers.Properties.Resources.resources
+D:\valera\ZTU\2_sem\database\payers\payers\obj\Release\payers.csproj.GenerateResource.Cache
+D:\valera\ZTU\2_sem\database\payers\payers\obj\Release\payers.exe
+D:\valera\ZTU\2_sem\database\payers\payers\obj\Release\payers.pdb
+D:\valera\ZTU\2_sem\database\payers\payers\obj\Release\payers.csprojResolveAssemblyReference.cache
